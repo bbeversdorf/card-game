@@ -1,0 +1,33 @@
+User can create new game id (and is added to game)
+or join game
+Game contains players
+Player logs in to game id (player gets id)
+
+Game start
+- Order of players is established
+- White Deck is shuffled
+- Player gets 7 cards
+- Cards are removed from white deck
+- Player can see cards in hand
+- All players can see won cards per player
+
+Round starts
+- Black deck is shuffled
+- One player is designated the dealer
+- One black card is chosen and removed from deck
+- Black card is shown all players
+- Wait for all players to submit a white card
+- Everyone sees all submitted white card
+- Dealer picks best white card
+- White card given to player
+- Check for winner/ask for next round
+
+All
+- Be able to see all players and won cards
+- Multiple card submit
+Dealer
+- Be able to see when dealer
+- Be able to see who needs to submit
+- Multiple card viewing
+- Confirmation
+- Dynamic number of submitted cards

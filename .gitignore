@@ -1,0 +1,5 @@
+dump.rdb
+storage/*
+node_modules/*
+.tscache
+dist
